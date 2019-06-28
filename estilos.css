@@ -16,6 +16,13 @@ body{
     margin: 0 auto;
 }
 
+#cabecera
+{
+    font-size: 30px;
+    color: red;
+    border: 1px solid darkred;
+}
+
 #container h1
 {
     font-size: 20px;
